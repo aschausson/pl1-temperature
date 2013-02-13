@@ -1,0 +1,1 @@
+Conversor JavaScript de grados Celsius a grados Farenheit y viceversa.
